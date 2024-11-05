@@ -3,8 +3,8 @@
 
     // --- [CONFIGURAÇÕES] ----------------------------------------------- 
 
-    const API_KEY_LYRICS = "1637b78dc3b129e6843ed674489a92d0";
-    const API_URL = "https://twj.es/radio_info/?radio_url=";
+    const API_KEY_LYRICS = "18fe07917957c289983464588aabddfb";
+    const API_URL = "https://api.zeno.fm/mounts/metadata/subscribe/vt029ye33mruv";
     const TIME_TO_REFRESH = window?.streams?.timeRefresh || 10000;
 
     // --- [CONSTANTES E VARIÁVEIS] --------------------------------------
