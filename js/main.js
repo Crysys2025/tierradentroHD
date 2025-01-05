@@ -3,7 +3,7 @@
 
     // --- [CONFIGURAÇÕES] ----------------------------------------------- 
 
-    const API_KEY_LYRICS = "18fe07917957c289983464588aabddfb";
+    const API_KEY_LYRICS = "1736043557846";
     const API_URL = "https://api.zeno.fm/mounts/metadata/subscribe/vt029ye33mruv";
     const TIME_TO_REFRESH = window?.streams?.timeRefresh || 10000;
 
